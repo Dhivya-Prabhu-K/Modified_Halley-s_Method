@@ -1,6 +1,6 @@
 clear all
 clc;
-n_values = linspace(1000000, 1300000,25);
+n_values = linspace(1200000, 1300000,25);
 num_runs = 20;
 
 time_method1 = zeros(size(n_values));
